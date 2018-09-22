@@ -1,2 +1,1 @@
-# QuanPy
-python
+个人使用练习
